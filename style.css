@@ -1,9 +1,12 @@
 * {
     font-size: 30px;
+    font-family: sans-serif;
+    outline: 1px red dotted;
 }
 div {
     display: flex;
     flex-direction: column;
+    margin: 10px auto;
 }
 img {
     width: 500px;
